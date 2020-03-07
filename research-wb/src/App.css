@@ -14,19 +14,19 @@
 }
 
 .App-header {
-  background-color: white;
+  background-color: #01254e;
   min-height: 6vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color:rgb(17, 87, 167);
+  color: rgb(254,122,22);
   font: PT Sans;
 }
 
 .Dashboard-container{
-  background-color: #282c34;
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
